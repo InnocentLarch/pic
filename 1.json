@@ -2,7 +2,7 @@
   "imba97": {
     "url": "https://photograph.ngsagasdngsdaf.online",
     "path": "/pic/{year}/{month}/{fullName}",
-    "uploadPath": "/www/wwwroot/photograph.ngsagasdngsdaf.online/pic/{year}/{month}/{fullName}",
+    "uploadPath": "var/www/wwwroot/photograph.ngsagasdngsdaf.online/pic/{year}/{month}/{fullName}",
     "host": "104.194.240.12",
     "port": 10022,
     "username": "root",
